@@ -1,4 +1,4 @@
-package com.pt.sergio.rest.webservices.restfulwebservices;
+package com.pt.sergio.rest.webservices.restfulwebservices.helloworld;
 
 import java.util.Locale;
 
